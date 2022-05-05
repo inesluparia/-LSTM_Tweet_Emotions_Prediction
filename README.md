@@ -20,9 +20,9 @@ Name: **Ines Luparia**
 
 Email : **inesluparia@gmail.com**
 
-LinkedIn : **[https://www.linkedin.com/in/inesluparia/][LinkedinAccount]**
+LinkedIn : **https://www.linkedin.com/in/inesluparia/**
 
-Github : **[https://www.github.com/inesluparia/]**
+Github : **https://www.github.com/inesluparia/**
 
 
 
