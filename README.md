@@ -1,5 +1,5 @@
 # **Emotion Prediction with Supervised Learning of RNN and LSTM**
-I have created an artificial intelligence software that can make an emotion prediction based on the text you have written using RNN (Recurrent Neural Network) and LSTM.
+I will attempt to develop an artificial intelligence software that can make an emotion prediction based on the text you have written using RNN (Recurrent Neural Network) and LSTM.
 
 ###**The coding language used:**
 
@@ -16,9 +16,9 @@ I have created an artificial intelligence software that can make an emotion pred
 
 ### **Developer Information:**
 
-Name-Surname: **Ines Luparia**
+Name: **Ines Luparia**
 
-Contact (Email) : **inesluparia@gmail.com**
+Email : **inesluparia@gmail.com**
 
 LinkedIn : **[https://www.linkedin.com/in/inesluparia/][LinkedinAccount]**
 
